@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+div {
+    background-color: #ffffaa;
+    margin: 25px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ff0000;
+}
+p {
+    padding: 10px;
+}
+div.box {
+    padding: 10px;
+    border: 10px solid #bbbbbb;
+    margin: 10px;
+}
